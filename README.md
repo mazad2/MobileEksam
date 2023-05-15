@@ -7,14 +7,14 @@
 <h3>Andres Sikka</h3>
 <p>
 <h1>2D Platformer "Red Hood"</h1>
-![Project logo](./logo.jpg)
+![photo_2023-05-15_17-35-31](https://github.com/mazad2/MobileEksam/assets/22565000/ed8fa825-bd1d-45fb-8049-49d919bf69f4)
 
 <h2>Low to launch</h2>
 <h3>1.Download file from google drive, then download android studio. In android studio download Android NDK r25b</h3>
 <h3>2.Open Unreal Engine and choose device to build a game</h3>
 <h3>3.Enjoy</h3>
 <h2>Do not judge strictly, the game is still in development(first experience in UE)</h2>
-![Game screenshot](./game.jpg)
+![game](https://github.com/mazad2/MobileEksam/assets/22565000/28a62e63-a8b4-42bb-8641-ae7349136b6e)
 
 [Google drive game link](https://drive.google.com/drive/u/2/folders/1sG6fchiDNC4DZaWUgWijpKYugktIpvuu)
 
@@ -24,3 +24,5 @@
 [Kodutöö 6](https://drive.google.com/drive/u/0/folders/1MguDNdnP04acf-Cg4X97P0hpNQUOdrri)
 <p>
 [Kodutöö 7](https://drive.google.com/drive/folders/1lwL9IqiBY8ZHDFpMqwlz0dDAZ5I5ZI_L?usp=sharing)
+
+
