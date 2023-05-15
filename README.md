@@ -14,11 +14,11 @@
 <h3>2.Open Unreal Engine and choose device to build a game</h3>
 <h3>3.Open Unreal Engine app in your device</h3>
 
-Tech Stack:
-UnrealEngine 5.1
-PixelPaint
-PixelZD plugin
-Blueprint
+<h2>Tech Stack:</h2>
+<h3>UnrealEngine 5.1</h3>
+<h3>PixelPaint</h3>
+<h3>PixelZD plugin</h3>
+<h3>Blueprint</h3>
 
 <h2>Do not judge strictly, the game is still in development(first experience in UE)</h2>
 ![game](https://github.com/mazad2/MobileEksam/assets/22565000/28a62e63-a8b4-42bb-8641-ae7349136b6e)
