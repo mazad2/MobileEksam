@@ -18,5 +18,4 @@
 [Kodutöö 5](https://drive.google.com/drive/folders/1fj13ZKSCidDcHzn8c5G9daPwyAApg8Ay?usp=sharing)
 <p>
 [Kodutöö 6](https://drive.google.com/drive/u/0/folders/1MguDNdnP04acf-Cg4X97P0hpNQUOdrri)
-<p>
 [Kodutöö 7](https://drive.google.com/drive/folders/1lwL9IqiBY8ZHDFpMqwlz0dDAZ5I5ZI_L?usp=sharing)
