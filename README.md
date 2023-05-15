@@ -20,4 +20,3 @@
 [Kodutöö 6](https://drive.google.com/drive/u/0/folders/1MguDNdnP04acf-Cg4X97P0hpNQUOdrri)
 <p>
 [Kodutöö 7](https://drive.google.com/drive/folders/1lwL9IqiBY8ZHDFpMqwlz0dDAZ5I5ZI_L?usp=sharing)
-<p>
