@@ -6,6 +6,10 @@
 <h3>Dmitri Šibin</h3>
 <h3>Andres Sikka</h3>
 <p>
-![Alt idle](https://github.com/mazad2/MobileEksam/assets/90316413/82f2294e-4f38-45a2-90f9-48f4569e2631)
 <h1>2D Platformer "Red Hood"</h1>
 <h2>Low to launch</h2>
+<h3>1.Download file from google drive, then download android studio. In android studio download Android NDK r25b</h3>
+<h3>2.Open Unreal Engine and choose device to build a game</h3>
+<h3>3.Enjoy</h3>
+<h2>Do not judge strictly, the game is still in development(first experience in UE)</h2>
+[Google drive game link](https://drive.google.com/drive/u/2/folders/1sG6fchiDNC4DZaWUgWijpKYugktIpvuu)
