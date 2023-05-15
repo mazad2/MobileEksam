@@ -6,6 +6,6 @@
 <h3>Dmitri Šibin</h3>
 <h3>Andres Sikka</h3>
 <p>
- ![idle](https://github.com/mazad2/MobileEksam/assets/90316413/82f2294e-4f38-45a2-90f9-48f4569e2631)
+![Alt idle](https://github.com/mazad2/MobileEksam/assets/90316413/82f2294e-4f38-45a2-90f9-48f4569e2631)
 <h1>2D Platformer "Red Hood"</h1>
 <h2>Low to launch</h2>
