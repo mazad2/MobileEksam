@@ -7,7 +7,7 @@
 <h3>Andres Sikka</h3>
 <p>
 <h1>2D Platformer "Red Hood"</h1>
-![photo_2023-05-15_17-35-31](https://github.com/mazad2/MobileEksam/assets/22565000/ed8fa825-bd1d-45fb-8049-49d919bf69f4)
+![logo.jpg](https://github.com/mazad2/MobileEksam/assets/22565000/ed8fa825-bd1d-45fb-8049-49d919bf69f4)
 
 <h2>Low to launch</h2>
 <h3>1.Download file from google drive, then download android studio. In android studio download Android NDK r25b</h3>
